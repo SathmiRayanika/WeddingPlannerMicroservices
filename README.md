@@ -1,9 +1,9 @@
 This project implements a wedding planner application using microservices architecture with four services:
 
-Event Service - Manages wedding events
-Guest Service - Manages guests and RSVPs
-Task Service - Manages wedding tasks
-API Gateway - Single entry point that routes requests and aggregates data
+   Event Service - Manages wedding events
+   Guest Service - Manages guests and RSVPs
+   Task Service - Manages wedding tasks
+   API Gateway - Single entry point that routes requests and aggregates data
 
 💻 Technologies
 
